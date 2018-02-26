@@ -1,12 +1,12 @@
-Program Py – CS 344
-Overview
+## Program Py – CS 344
+### Overview
 In this assignment, you will be given ZERO instruction in HOW to accomplish it! The actual requirements are very simple to satisfy. This is a test of how well you can research the topic and satisfy the conditions of this Assignment on your own. This is how much of the real world works - you'll be thrown into situations that are full of unknowns, and you'll need to come up with a solution!
 
 You are becoming a computer scientist, not a technician: you will learn how to handle ANY language thrown at you, not just the ones you are spoon-fed, by learning good research habits and techniques. The more problems you encounter and solve, the greater problem set you'll be able to infer solutions to from your background of knowledge.
 
 This is by far the easiest assignment in this course - it's worth the least points, with the most time to accomplish it. You will use what you've learned here in later courses at OSU.
 
-Specifications
+### Specifications
 For this assignment, you will create a script in the Python language. You can read more about Python here:
 
 http://www.python.org/ (Links to an external site.)Links to an external site.
@@ -30,7 +30,7 @@ $ python2.7 mypython.py
 $ python3 mypython.py
 Python is NOT a topic that will be covered on the Final.
 
-Example Output
+### Example Output
 Here's an example of the script being run; all output is random except for the last line.
 
 $ python mypython.py
@@ -40,9 +40,9 @@ pxeugdqnwc
 8
 10
 80
-Hints
+### Hints
 I HIGHY recommend that you develop this program directly on our server, instead of one your personal machine. Doing so will prevent you from having problems transferring the program back and forth, which can cause compatibility issues.
 
-If you do see ^M characters all over your files, try this command:
+### If you do see ^M characters all over your files, try this command:
 
 % dos2unix bustedFile
